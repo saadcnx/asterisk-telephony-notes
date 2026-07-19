@@ -17,7 +17,7 @@ Other SIP routers/projects exist (e.g., **Kamailio** – a very fast SIP router,
 Asterisk has a **huge feature set**.
 
 ### Feature-Rich System
-It doesn't just route calls; it provides:
+It doesn't just route calls; it provides: -
 - Voicemail boxes
 - Call queues (where callers wait and are dispatched to different phones)
 
