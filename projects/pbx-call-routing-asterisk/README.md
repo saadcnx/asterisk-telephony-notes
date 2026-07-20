@@ -156,9 +156,17 @@ Defines voicemail mailboxes per extension, mapped to each department, with custo
 
 > _Add your test screenshots here to show the working call flow._
 
+- SIP Peers registered
+  <img width="1104" height="127" alt="peers_register" src="https://github.com/user-attachments/assets/2aa8aed2-c013-4fc0-a73e-013a4d206b70" />
+
 - Business hours call → IVR menu
+  <img width="976" height="203" alt="Call_durin_business_hours" src="https://github.com/user-attachments/assets/697f7708-34ce-4658-886d-81ce0888c3db" />
+
 - After-hours call → straight to voicemail
+  <img width="1038" height="190" alt="call_after_hour" src="https://github.com/user-attachments/assets/02aa8a27-2a4d-4bde-8aa3-6db8bfca700e" />
+
 - Department routing → Sales greeting → ring extension 101
+  <img width="1004" height="322" alt="call_going_to_support" src="https://github.com/user-attachments/assets/9d6357eb-a056-48dd-aa90-23b524377711" />
 
 ---
 
